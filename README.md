@@ -1,3 +1,6 @@
+![happy ddnet](4ec90104-1614-4414-83c0-43c616824f3f.png)
+
+
 # rosbag1-to-ros2-reader
 
 Convert ROS1 `.bag` files to ROS2 format using `convert.py` and read messages in Python with `read_ros2.py`.
